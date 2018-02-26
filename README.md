@@ -1,6 +1,6 @@
 # Front-end Developer - Assignment (Edge Consulting)
 
-> My ace Nuxt.js project
+> [https://front-end-dev-assignment.firebaseapp.com/](https://front-end-dev-assignment.firebaseapp.com/)
 
 ## Build Setup
 
